@@ -1,5 +1,7 @@
 # Latent Topic Analysis
 
+__Doris Jung-Lin Lee__
+
 The goal of proablistic topic models is to discover latent topics in texts. Each *topic* is simply a distribution of words. 
 
 ## Probablistic Latent Semantic Analysis (PLSA, or refered to as PLSI in some texts)

@@ -1,5 +1,7 @@
-# The Population Posterior and Bayesian Modeling on Streams 
+# Notes on "The Population Posterior and Bayesian Modeling on Streams"
 ([McInerney, Ranganath, Blei 2015](https://arxiv.org/abs/1507.05253))
+
+__Doris Jung-Lin Lee__
 
 This paper proposes a framework for doing Bayesian modelling on streams. It could be applied to anything in theory (in the paper they did this for LDA and Dirichlet process mixtures) ,but in this note we focus on drawing analogies to the standard LDA. 
 

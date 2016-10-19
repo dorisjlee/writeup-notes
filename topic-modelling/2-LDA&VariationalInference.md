@@ -1,7 +1,7 @@
 
 # Notes on Variational inference for Latent Dirichlet Allocation (LDA)
 
-Doris Jung-Lin Lee
+__Doris Jung-Lin Lee__
 
 Our goal is to determine the posterior $p(\theta, z|w,\alpha,\beta)$, which is the distribution over topics and the hidden variable z. We get this as the fraction: 
 $$p(\theta, z|w,\alpha,\beta)=\frac{p(\theta,z,w|\alpha,\beta)}{p(w|\alpha,\beta)}$$
